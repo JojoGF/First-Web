@@ -1,0 +1,61 @@
+body
+{
+	background: white;
+	font-size: 16px;
+	margin: 0 auto;
+	width: 600px;
+}
+#durazno p
+{
+	display: inline-block;
+}
+#durazno figure img
+{
+	display: inline-block;
+	height: 150px;
+}
+#fresa figure img
+{
+	display: inline-block;
+	margin 0;
+	padding: 0px;
+	position: absolute;
+}
+#fresa p
+{
+	display: inline-block;
+	margin-left: 300px;
+}
+#img_encabezado
+{
+	display: inline-block;
+	padding: 0px;
+	/*position: absolute;*/
+	margin: 0px;
+}
+#img_encabezado img
+{
+	height: 200px;
+	margin: 0;
+	padding: 0px;
+	width: 300px;
+}
+#pedidos
+{
+	background: #c2c3bd;
+	width: 600px;
+}
+.togo
+{
+	display: inline-block;
+}
+h1
+{
+	display: inline-block;
+	vertical-align: top;
+}
+header
+{
+	display: inline-block;
+	padding-bottom: 140px;
+}
